@@ -13,3 +13,6 @@ Obviously, make sure it still looks good on desktop and phone.
 ----- COMMENTS -----
 This will be so useful. We should be proactive and do this before the list gets even longer.
 Let's do it! I would love to help out. I just took a coding class. 🤓
+
+----- CLOSING COMMENT -----
+The activities list now features a toolbar for filtering by category, sorting, and searching, making it much easier to find and organize activities. Thank you all for your helpful suggestions and feedback!
