@@ -1,0 +1,9 @@
+{
+    "chat.mcp.serverSampling": {
+        "skills-integrate-mcp-with-copilot/.vscode/mcp.json: github": {
+            "allowedModels": [
+                "copilot/gpt-4.1"
+            ]
+        }
+    }
+}
